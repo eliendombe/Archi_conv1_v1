@@ -2,7 +2,7 @@
 **Projet :** Kingabwa Architecture Custom
 **Version :** 1.1.0 (Extended)
 **Date :** 19 Janvier 2026
-**Auteur :** Assistant IA & Équipe de Développement
+**Auteur :** Assistant  & Équipe de Développement
 **Statut :** Documentation de Référence
 
 ---
@@ -498,3 +498,4 @@ Cela garantit que personne ne peut télécharger `core/config/database.php` et l
 
 ---
 *Ce document est vivant et doit être mis à jour à chaque modification majeure de l'architecture.*
+
